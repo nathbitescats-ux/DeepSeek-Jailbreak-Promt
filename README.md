@@ -26,13 +26,6 @@ blocks so that each can be studied, modified, or extended independently.
   identity across turns, tool calls, and injected content.
 - A **template** — every block is meant to be edited for your own engagement.
 
-## What this is not
-
-- Not a claim of a universal bypass. See [Scope & Honest Limits](#scope--honest-limits).
-- Not a substitute for authorization. See [Responsible Use](#responsible-use).
-- Not model-specific. Vesper is architecture-agnostic; behavior varies by tier.
-
-
 ## The prompt
 
 The full prompt lives at [`prompts/vesper-v1.md`](prompts/vesper-v1.md)
