@@ -2,7 +2,8 @@
 
 **A configurable AI operating-identity prompt for authorized red-team research and prompt-engineering study.**
 
-Created by [Neon](https://github.com/neon)
+Created by 
+[Neon](https://github.com/nathbitescats-ux)
 
 ---
 
