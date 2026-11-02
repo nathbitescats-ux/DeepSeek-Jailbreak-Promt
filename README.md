@@ -67,16 +67,6 @@ Findings about a model's behavior should be routed through that model
 provider's disclosure channel. See [`docs/methodology.md`](docs/methodology.md)
 for a tested-engagement checklist (scope, staging, canary secrets, reporting).
 
-## Methodology
-
-Testing guidance lives in [`docs/methodology.md`](docs/methodology.md):
-
-- **Rules of engagement** — written scope, staging data, logging.
-- **Test design** — vary attack class, task realism, context length, turn
-  depth, and language.
-- **Metrics** — identity persistence, refusal rate, false-refusal rate, and
-  disclosure rate, reported together.
-
 ## Disclaimer
 
 This repository is a research and documentation artifact. It is provided
