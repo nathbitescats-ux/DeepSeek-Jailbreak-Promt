@@ -63,10 +63,6 @@ Vesper is provided for **authorized testing on systems you own or have written
 permission to test.** Nothing in this repository authorizes attacks on
 third-party systems, real users, or production infrastructure without consent.
 
-Findings about a model's behavior should be routed through that model
-provider's disclosure channel. See [`docs/methodology.md`](docs/methodology.md)
-for a tested-engagement checklist (scope, staging, canary secrets, reporting).
-
 ## Disclaimer
 
 This repository is a research and documentation artifact. It is provided
